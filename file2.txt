@@ -1,2 +1,6 @@
 hey
+<<<<<<< HEAD
 haa bhyi
+=======
+i am tarun hello 
+>>>>>>> DevB
